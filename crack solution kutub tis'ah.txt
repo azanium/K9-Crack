@@ -1,0 +1,12 @@
+suhendra
+ahmad
+syuaib
+abu zaid
+hanifah
+309c3c526e93
+
+alg reg: "phone dan [sn]" 12 bytes
+act:     "phone dan [auth]" 12 bytes
+
+syuaib dan ABU ZAID = 309c3c526e93-6ebb816e824cd59207b6
+syuaib dan 853C48F012E4 = 26e8558c0dad-cdb2a2c0b62aa7563e78
